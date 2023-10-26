@@ -1,0 +1,24 @@
+.box1{
+    width: 305px;
+    height: 168px;
+    background-color: white;
+    border: 1px solid purple;
+}
+.box2{
+    width: 657px;
+    height: 121px;
+    background-color: white;
+    border: 3px dashed ;
+}
+.box3{
+    width: 399px;
+    height: 95px;
+    background-color: white;
+    border: 3px solid green;
+}
+.box4{
+    width: 1097px;
+    height: 173px;
+    background-color: blue;
+    border: 3px solid brown;
+}
